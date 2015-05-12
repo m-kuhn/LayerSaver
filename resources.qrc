@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/LayerSaver" >
+        <file>import.svg</file>
+        <file>export.svg</file>
+    </qresource>
+</RCC>
